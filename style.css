@@ -15,3 +15,9 @@ body {
   background-color: rgb(226, 194, 135);
   border-top: 20px solid orange;
 }
+pre {
+  display: flex;
+  justify-content: space-around;
+  color: rgb(247, 205, 127);
+  background-color: black;
+}
